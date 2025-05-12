@@ -1,0 +1,19 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span {
+    font-size: 20px;
+    color: #000000;
+}
+
+img {
+    width: 40%;
+    height: 50%;
+    display: relative;
+}
+
+.small {
+    width: 8%;;
+    color: #000000;
+}
