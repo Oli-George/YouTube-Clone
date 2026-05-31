@@ -1,3 +1,4 @@
 # YouTube-Clone
 
-Testing it to see how I can get the YOLO badge.
+
+YouTube clone Prototype to master the basics of HTML, CSS and JavaScript. 
