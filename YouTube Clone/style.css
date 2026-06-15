@@ -17,3 +17,11 @@ img {
     width: 8%;;
     color: #000000;
 }
+
+a {
+    color: #015287;
+
+}
+
+a:: after{
+}
