@@ -10,7 +10,7 @@ span {
 img {
     width: 40%;
     height: 50%;
-    display: relative;
+    display: absolute;
 }
 
 .small {
