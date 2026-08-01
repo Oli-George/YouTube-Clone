@@ -13,6 +13,10 @@ img {
     display: absolute;
 }
 
+nav {
+    top: 20px;
+}
+
 .small {
     width: 8%;;
     color: #000000;
@@ -23,5 +27,7 @@ a {
 
 }
 
-a:: after{
+a::after{
+    color: #000000;
+
 }
