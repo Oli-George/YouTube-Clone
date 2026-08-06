@@ -5,4 +5,4 @@ YouTube clone Prototype to master the basics of HTML, CSS and JavaScript.
 
 ### Usage
 
-I will be using it to test my HTML/CSS knowledge to make sure everything is still as I like it
+I will be using it to test my HTML/CSS knowledge to make sure everything is still the way I like it
