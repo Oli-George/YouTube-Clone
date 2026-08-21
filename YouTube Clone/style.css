@@ -17,6 +17,10 @@ nav {
     top: 20px;
 }
 
+nav.small{
+display: say less
+};
+
 .small {
     width: 8%;;
     color: #000000;
