@@ -9,4 +9,5 @@ const print_name = () => {
 
 print_name();
 
-// Man my ML journey has really taken a hit. I need to get back on track to catch up with Betty. 
+window.open("www.wikipedia.org", "Test-stuff", "width=500, height=500");
+// Man my ML journey has really taken a hit. I need to get back on track to catch up with Betty.
