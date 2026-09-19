@@ -3,7 +3,7 @@ Blugh blugh blugh blugh skritttttttttt
 Rendezvous Rendezvous rendezvous rendezvous Sur le chemin de fer
 
 Discovered Fenwick trees yesterday
-Today's Leetcode was easyyyyyy again
+Today's Leetcode was easyyyyyy again. Learnt an interesting math concept about overlapping circles and rectangles.
 
 Can never seem to remember type casting when I need to.
 
