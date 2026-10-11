@@ -16,6 +16,7 @@ function rien() {
 }
 
 print_name(rien());
+// My hair is gone, and so is my laziness 😠
 
 window.open("www.wikipedia.org", "Test-stuff", "width=500, height=500");
 // Man my ML journey has really taken a hit. I need to get back on track to catch up with Betty.
