@@ -1,4 +1,6 @@
 const n = "MTH 206";
+let num = 96;
+let obj = [];
 
 const print_name = () => {
   const name = prompt("What's your name, querido usante?");
