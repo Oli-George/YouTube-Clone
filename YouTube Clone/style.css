@@ -33,5 +33,9 @@ a {
 
 a::after{
     color: #000;
+}
 
+p {
+    font-size: 20px;
+    color: #000;
 }
